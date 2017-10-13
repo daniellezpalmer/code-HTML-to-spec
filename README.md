@@ -36,3 +36,9 @@ h3 level headline that reads: "Characteristics"
 Article
 Paragraph that reads: "The ocelot is a medium-sized spotted cat, similar to the bobcat in physical proportions. The ocelot is between 55 and 100 centimetres (22 and 39 in) in head-and-body length and weighs 8–16 kilograms (18–35 lb)."
 Aside that reads: "Larger individuals have occasionally been recorded."
+
+## TODO
+- [x] Header
+- [x] Overview section
+- [x] Taxonomy section
+- [x] Characteristics section
