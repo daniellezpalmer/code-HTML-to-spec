@@ -43,5 +43,8 @@ Aside that reads: "Larger individuals have occasionally been recorded."
 - [x] Taxonomy section
 - [x] Characteristics section
 
+## Challenges
+- Table wouldn't work. (Forgot outer Table tag)
+
 ## Screenshot of finished product
 <img width="561" alt="html2spec" src="https://user-images.githubusercontent.com/30088565/31561072-55e91eb0-b01c-11e7-84c1-0904432e2564.png">
